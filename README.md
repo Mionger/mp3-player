@@ -11,7 +11,7 @@ develop information:
 </pre>  
 
 <pre>  
-UPDATE 2019-2-4 v 0.1.2
+UPDATE 2019-2-10 v 0.1.2
   Add User Manual Part II
 </pre>  
 
