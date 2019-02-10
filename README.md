@@ -20,6 +20,12 @@ UPDATE 2019-2-3 v 0.1.1
   Add User Manual Part I
 </pre>  
 
+<pre>  
+UPDATE 2019-1-23 v 0.1.0
+  1.Finish the implement of MP3 Player
+  2.Add README.md
+</pre>  
+
 ## User Manual  
 ### I.Config the midi file  
 1.Tool Software : BmpToMif.exe  
